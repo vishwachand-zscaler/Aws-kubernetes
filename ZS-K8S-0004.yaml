@@ -4,3 +4,4 @@ metadata:
   name: privilegedPolicy
 spec:
   privileged: true
+
