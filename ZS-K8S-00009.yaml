@@ -5,4 +5,4 @@ metadata:
 spec:
   privileged: false
   runAsUser:
-    rule: 'RunAsAny'
+    rule: ''
