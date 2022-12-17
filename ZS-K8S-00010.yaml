@@ -1,1 +1,7 @@
-
+apiVersion: policy/v1beta1
+kind: PodSecurityPolicy
+metadata:
+  name: privilegedPolicy
+spec:
+  requiredDropCapabilities: 
+    - NET_RAW
