@@ -2,4 +2,4 @@ apiVersion: v1
 kind: Pod
 metadata:
   name: OurProd
-  namespace: prod
+  namespace: 
