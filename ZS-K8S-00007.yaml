@@ -4,4 +4,4 @@ metadata:
   name: privilegedPolicy
 
 spec:
-  hostNetwork: true
+  hostNetwork: false
