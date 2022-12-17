@@ -4,4 +4,4 @@ metadata:
   name: privilegedPolicy
 spec:
   requiredDropCapabilities: 
-    - ALL
+    
